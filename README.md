@@ -4,4 +4,4 @@ Simple [SLiM](http://slim.berlios.de/ "SLiM - Simple Login Manager") theme with 
 
 # Screenshot
 
-![Screenshot](http://github.com/menski/slim-theme-dwm/raw/master/screenshot.png)
+![Screenshot](screenshot.png)
